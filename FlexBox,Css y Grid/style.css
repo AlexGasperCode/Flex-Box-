@@ -1,0 +1,31 @@
+section{
+    max-width: 500px;
+    margin: 1rem auto;
+    display: flex;
+    border: 1px solid black;
+}
+.caja1{
+    background:yellowgreen;
+    padding: 1rem;
+    order: 1;
+}
+.caja2{
+    background:orangered;
+    padding: 1rem;
+    order: 1;
+}
+.caja3{
+    background:purple;
+    padding: 1rem;
+    order: 0;
+}
+.caja4{
+    background:gray;
+    padding: 1rem; 
+}
+.caja5{
+    background:green;
+    padding: 1rem;
+}
+
+
